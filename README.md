@@ -1,1 +1,1 @@
-# BharatIntern-Calculator-App
+A calculator is a small electrical device that quickly performs mathematical computations. It has a keypad for input, an LCD display for output, and facilities for basic arithmetic, sophisticated computations, and conversions, making it a valuable tool in a variety of industries.
